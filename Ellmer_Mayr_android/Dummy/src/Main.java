@@ -5,6 +5,8 @@ public class Main {
 		System.out.println("Hello Git");
 	}
 	
-	public void thisIsANewMethod() {}
+	public void thisIsANewMethod() {
+		System.out.println("Hello from Member 1");
+	}
 
 }
