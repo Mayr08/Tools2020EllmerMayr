@@ -13,5 +13,11 @@ public class Main {
 	public void NewMethod() {
 		System.out.println("I am writing a few Lines of Codes.");
 	}
+	
+	public void SecondMethod() {
+		for (int i=0; i < 10; i++) {
+			System.out.println(i);
+		}
+	}
 
 }
