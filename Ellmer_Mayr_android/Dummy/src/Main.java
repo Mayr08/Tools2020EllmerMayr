@@ -8,6 +8,8 @@ public class Main {
 	public void thisIsANewMethod() {
 		System.out.println("Hello from Member 1");
 		System.out.println("Conflict :) !");
+		
+		System.out.println("Fix BUG");
 	}
 
 }
